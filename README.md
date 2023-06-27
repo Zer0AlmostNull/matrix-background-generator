@@ -1,6 +1,6 @@
 # Matrix like animated background generator
 
-Made in 1 hour challenge. Program(```main.py```) generates frames to achive matrix background effect.\
+Made in 1 hour challenge. Program(```main.py```) generates frames to achive matrix background effect.
 
 To put gerated frames together into movie you can simmply use ffmpeg:
 ```
